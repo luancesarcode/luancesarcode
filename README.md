@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luan%20C%C3%A9sar&fontSize=50&fontAlignY=35&animation=twinkling&desc=Engenharia%20de%20Controle%20e%20Automa%C3%A7%C3%A3o%20%7C%20UFPE&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D2E&height=200&section=header&text=Luan%20C%C3%A9sar&fontSize=50&fontAlignY=35&animation=twinkling&desc=Engenharia%20de%20Controle%20e%20Automa%C3%A7%C3%A3o%20%7C%20UFPE&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@ Graduando em **Engenharia de Controle e Automação** pela UFPE, apaixonado por 
 
 - ⚙️ **Atuação:** Automação industrial, instrumentação, sistemas supervisórios (SCADA) e CLPs
 - 🔬 **Experiência:** Tecnologia nuclear e monitoramento de radiação ionizante
-- 💻 **Gestão:** Diretor de TI e Marketing no DADEE/UFPE
+
 - 🧠 **Interesse:** Integração hardware-software, IA aplicada a processos e sistemas embarcados
 
 ---
