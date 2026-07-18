@@ -81,5 +81,5 @@ _Em breve_
   <br/>
   <sub><i>"Construindo soluções com curiosidade, engenharia e código."</i></sub>
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B3D2E&height=100&section=footer" width="100%"/>
 </div>
