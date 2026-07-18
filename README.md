@@ -16,10 +16,10 @@
 
 Graduando em **Engenharia de Controle e Automação** pela UFPE, apaixonado por transformar ideias em soluções inteligentes que conectam software, hardware e processos industriais.
 
-- ⚙️ **Atuação:** Automação industrial, instrumentação, sistemas supervisórios (SCADA) e CLPs
-- 🔬 **Experiência:** Tecnologia nuclear e monitoramento de radiação ionizante
+- ⚙️ **Atuação:** Automação industrial, programação de CLPs, instrumentação e sistemas supervisórios (SCADA)
+- 💻 **Experiência:** Desenvolvimento de software, APIs e integração entre hardware e sistemas
 
-- 🧠 **Interesse:** Integração hardware-software, IA aplicada a processos e sistemas embarcados
+- 🧠 **Interesse:** Programação, automação, IA aplicada a processos e sistemas embarcados
 
 ---
 
