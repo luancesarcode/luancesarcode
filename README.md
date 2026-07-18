@@ -46,20 +46,7 @@ Graduando em **Engenharia de Controle e Automação** pela UFPE, apaixonado por 
   </tr>
 </table>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luancesarcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancesarcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luancesarcode&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="Troféus do GitHub"/>
-</div>
-
----
 
 ## 📌 Áreas de interesse
 
