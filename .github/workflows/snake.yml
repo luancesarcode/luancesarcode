@@ -1,5 +1,7 @@
 name: Generate Snake
 
+# Keep the contribution animation workflow easy to identify and maintain.
+
 on:
   schedule:
     - cron: "0 0 * * *"
